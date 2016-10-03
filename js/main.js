@@ -428,7 +428,7 @@ $(function() {
 
     }];
     // -- data_point_end    
-
+    var nam_l = 0;
     // -- create_point_dom
     function create_point_dom() {
         var list_nambers = 0;
@@ -437,7 +437,18 @@ $(function() {
                 var Teg_El = "<div><div class='active'> <img src=" + value.point.icon_url + "> </div><div class='container2'> </div></div>";
                 list_nambers++;
                 $(".points").append("<div class='point' id=" + value.point.id + ">" + Teg_El + "</div>");
-                $(".swiper-wrapper").append("<li class='swiper-slide' id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+            if(value.point.object_type == "infrastructure"){  
+                
+            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+                
+            }
+            if(value.point.object_type == "tourist_facilities"){
+            nam_l++;
+            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+                
+            
+            }
+                
             });
         };
         Point_Alignment();
@@ -988,7 +999,7 @@ $(function() {
         }, //--animation_of_end
         swipe_funck: swipe_fucktion = function() {
             setTimeout(function() {
-                swiper = new Swiper('.swiper-container', {
+                swiper = new Swiper('.Middle_Sector, .Middle_Sector2', {
                     pagination: '.swiper-pagination',
                     slidesPerView: 5,
                     paginationClickable: true,
@@ -1020,6 +1031,18 @@ $(function() {
     $(".btn").click(function() {
         $(".btn").removeClass("btn_active");
         $(this).addClass("btn_active");
+        
+    elem = $(this).attr("id");  
+    console.log(elem, "elem");
+    if(elem == "tourist_oject"){
+        $(".Middle_Sector2").css({"display"   :  "none"});  
+        $(".Middle_Sector").css({"display"    :  "block"});
+      
+    }
+    if(elem == "infrastructure") {
+        $(".Middle_Sector").css({"display"    :  "none"});
+        $(".Middle_Sector2").css({"display"   :  "block"});   
+    }   
     });
 	
     //-------------------------------------------------------------------------------- 
@@ -1054,6 +1077,14 @@ $(function() {
     });
 
 
+ //-------swiper loader
+    var swiper_loader = function(){
+        setTimeout(function() {
+            $(".Middle_Sector2").css({"display" : "none" }); 
+        }, 1000);    
+    }
+    swiper_loader();
+    
 
 
 
