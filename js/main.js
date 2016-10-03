@@ -439,12 +439,12 @@ $(function() {
                 $(".points").append("<div class='point' id=" + value.point.id + ">" + Teg_El + "</div>");
             if(value.point.object_type == "infrastructure"){  
                 
-            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
                 
             }
             if(value.point.object_type == "tourist_facilities"){
             nam_l++;
-            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
                 
             
             }
@@ -802,7 +802,6 @@ $(function() {
 
 
     $(".point").click(function() {
-
         //returne_settings_position();
         $(".point").removeClass('active_point');
         $(this).addClass('active_point');
@@ -827,6 +826,22 @@ $(function() {
         $(Ul_Point).addClass('activet');
         corection_position();
         Corect_Height();
+		
+		
+	 ative_point_of_list = "";
+	 ative_point_of_list = $(".activet").attr("cat_type");
+	 if(ative_point_of_list == "tourist_facilities"){
+		 $("#mid_2").css({"display" : "block"});
+		 $("#mid_1").css({"display" : "none"});
+		 $(".btn").removeClass("btn_active"); 
+         $(".tourist_oject").addClass("btn_active");
+	 }
+	 if(ative_point_of_list == "infrastructure"){
+		 $("#mid_1").css({"display" : "block"});
+		 $("#mid_2").css({"display" : "none"});
+		 $(".btn").removeClass("btn_active"); 
+         $(".infrastructure").addClass("btn_active");
+	 }
 
     });
 
