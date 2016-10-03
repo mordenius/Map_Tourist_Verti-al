@@ -1043,3 +1043,23 @@ svg {
     z-index: 100;
 }
 
+/*scroll bar*/
+
+.swiper_line {
+    width: 10px;
+    height: 359px;
+    background: #dbdbdb;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    pointer-events: none;
+}
+
+.scroller {
+  width: 10px;
+  height: 80px;
+  background: #353535;
+  position: relative;
+  pointer-events: none;
+}
