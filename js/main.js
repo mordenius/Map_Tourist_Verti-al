@@ -562,11 +562,13 @@ $(function() {
                 m = m + 100; //-- учитываем размер иконки
                 m = m - (m * 2);
                 Max_Trac_Map + 80;
-                //    $('.box').animate({ "left": m }, 400);
+                
+                   // $('.box').animate({ "left": m - 400 }, 400);
                 if (m_plas > Max_Trac_Map) {
 
                 } else {
-                    //$('.box').animate({  "left": m }, 400);
+                    
+                   // $('.box').animate({  "left": m  - 400 }, 400);
                 }
             } else if (map_pos_left < Max_Trac_Map_Midle) {
                 m = $('.active_point').offset().left;
@@ -574,9 +576,8 @@ $(function() {
                 m = m / 2;
                 m = m - (m * 2);
                 if (m_plas > Max_Trac_Map) {
-
-
-                    //--- $('.box').animate({ "left": -Max_Trac_Map}, 400);
+                    
+                  //   $('.box').animate({ "left": -Max_Trac_Map}, 400);
 
                 } else {
 
@@ -689,7 +690,7 @@ $(function() {
     function width_out() {
         width_in_v = false;
         var width = $('.map').width();
-        if (width < 1800) {
+        if (width < 2590) {
             return;
         }
         width = width / 1.1;
