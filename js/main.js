@@ -7,11 +7,12 @@ $(function() {
             "object_name": "Гостиница Чайка",
             "object_type": "infrastructure",
             "institution": "hotel",
+            "right_infoblock_header":"ГОСТИНИЦА <br> ЧАЙКА",
             "description": " «Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " Гостиница «Чайка» расположена на берегу реки Волга.",
             "icon_url": "img/icons/Hotel_for_map.svg",
             "addres": "Тверская область, г. Кимры, <br> набережная Фадеева, 1/1",
-            "phone": "+7 (960) 715-71-11 <br> +7 (48236) 3-29-33 — администратор <br> +7 (78236) 3-16-77 — бухгалтерия",
+            "phone": "+7 (960) 715-71-11 <br> +7 (48236) 3-29-33 — администратор",
             "time_worck": "Пн.- Чт. – 10:00 - 22:00 Пт.- Сб. – 10:00 - 24:00 Вс. – 10:00 - 22:00",
             "services": "Домашняя кухня, проведение свадеб, юбилеев, поминальные обеды",
             "maill": "info@chaika-kimry.ru",
@@ -27,11 +28,12 @@ $(function() {
             "object_name": "Гостиница Два капитана",
             "object_type": "infrastructure",
             "institution": "hotel",
+            "right_infoblock_header":"ГОСТИНИЦА <br>  ДВА КАПИТАНА",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница Два капитана расположена в Яхт клубе города Кимры.",
             "icon_url": "img/icons/Hotel_for_map.svg",
             "addres": "Тверская область, г. Кимры ул. Красная горка, 11",
-            "phone": "+7 (985) 233-47-21 <br>  +7 (48236) 3-24-93 — тел/факс <br> +7 (48236) 2-22-66",
+            "phone": "+7 (985) 233-47-21 <br>  +7 (48236) 3-24-93 — тел/факс",
             "time_worck": "",
             "services": "",
             "maill": "dvacapitana@mail.ru",
@@ -47,6 +49,7 @@ $(function() {
             "object_name": "Гостиница Березка",
             "object_type": "infrastructure",
             "institution": "hotel",
+            "right_infoblock_header":"ГОСТИНИЦА <br> БЕРЕЗКА",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница «Березка» расположенана левом берегу р. Волга",
             "icon_url": "img/icons/Hotel_for_map.svg",
@@ -68,11 +71,12 @@ $(function() {
             "object_name": "Гостиница савма",
             "object_type": "infrastructure",
             "institution": "hotel",
+            "right_infoblock_header":"ГОСТИНИЦА <br> САВМА",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница «Савма» расположенана левом берегу р. Волга",
             "icon_url": "img/icons/Hotel_for_map.svg",
             "addres": "Тверская область, г. Кимры, ул. Чапаева, 5",
-            "phone": " +7 (48236) 4-29-42 <br> +7 (48236) 4-24-80 <br> +7 (48236) 4-28-16",
+            "phone": " +7 (48236) 4-29-42 <br> +7 (48236) 4-24-80",
             "time_worck": "",
             "services": "",
 			"maill": "",
@@ -87,12 +91,13 @@ $(function() {
             "object_name": "Кафе Калина",
             "object_type": "infrastructure",
             "institution": "cafe",
+            "right_infoblock_header":"КАФЕ <br> КАЛИНА",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " ",
             "icon_url": "img/icons/Cafe_for_map.svg",
             "addres": "Тверская область, г. Кимры, ул. Урицкого, 14б",
             "phone": "+7 (48236) 2-22-12 <br> +7 (48236) 2-15-33",
-            "time_worck": "Пн.- Чт. – 10:00 - 22:00 <br> Пт.- Сб. – 10:00 - 24:00 <br> Вс. – 10:00 - 22:00",
+            "time_worck": "Пн.- Чт. – 10:00 - 22:00 <br> Пт.- Сб. – 10:00 - 24:00",
             "services": "Европейская кухня, бизнес-ланч, доставка обедов, пиццы, банкеты, лаунж-бар",
             "position": {
                 "top": "0",
@@ -106,6 +111,7 @@ $(function() {
             "object_name": "Кафе Старый город",
             "object_type": "infrastructure",
             "institution": "cafe",
+            "right_infoblock_header":"КАФЕ <br> СТАРЫЙ ГОРОД",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " ",
             "icon_url": "img/icons/Cafe_for_map.svg",
@@ -125,6 +131,7 @@ $(function() {
             "object_name": "Кафе Жемчужына",
             "object_type": "infrastructure",
             "institution": "cafe",
+            "right_infoblock_header":"КАФЕ <br> ЖЕМЧУЖИНА",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "",
             "icon_url": "img/icons/Cafe_for_map.svg",
@@ -143,6 +150,7 @@ $(function() {
             "type": "active",
             "object_name": "Обувной магазин Никс",
             "object_type": "infrastructure",
+            "right_infoblock_header":"ОБУВНОЙ МАГАЗИН <br> НИКС",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Закрытое акционерное общество 'Производственное обувное предприятие' 'Никс'",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
@@ -161,6 +169,7 @@ $(function() {
             "type": "active",
             "object_name": "Обувной магазин каприз",
             "object_type": "infrastructure",
+            "right_infoblock_header":"ОБУВНОЙ МАГАЗИН <br>  КАПРИЗ",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Общество с ограниченной ответственностью «Обувная фабрика «КАПРИЗ — ТМ»",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
@@ -179,6 +188,7 @@ $(function() {
             "type": "active",
             "object_name": "Обувной магазин обуфь",
             "object_type": "infrastructure",
+            "right_infoblock_header":"ОБУВНОЙ МАГАЗИН <br>  ОБУФЬ",
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
@@ -196,6 +206,7 @@ $(function() {
             "type": "active",
             "object_name": "Вознесенская церковь",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"ВОЗНЕСЕНСКАЯ <br> ЦЕРКОВЬ",
             "description": {
 
                 "1": " 21 июля 1902 года в Кимрах состоялась закладка нового каменного храма в ознаменование выздоровления  в 1900 году Его Императорского Величества Государя  Николая II. В 1911 году трехпрестольный храм  был освящен. Главный престол освятили в честь Преображения Господня, правый предел – в честь святого пророка Илии, левый – в честь Вселенских Святителей Василия Великого, Григория Богослова, Иоанна Златоуста.Архитектор Рыбанский решил образ храма в псевдорусском стиле. Он двухсветный, с тремя апсидами, трапезной. В основании - четырехстопный четверик, завершают который пять высоких шатровых глав со световыми восьмигранными барабанами, увенчанными луковичными главками. Каждая грань барабана венчается килевидными кокошниками. ",
@@ -226,6 +237,7 @@ $(function() {
             "type": "active",
             "object_name": "Спасо-Преображенский собор",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"СПАСО-ПРЕОБРАЖЕНСКИЙ <br> СОБОР",
             "number_of_houses": "",
             "description": {
 
@@ -256,6 +268,7 @@ $(function() {
             "type": "active",
             "object_name": "Гостиный двор",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"ГОСТИНЫЙ <br> ДВОР",
             "number_of_houses": "",
             "description": {
 
@@ -286,6 +299,7 @@ $(function() {
             "type": "active",
             "object_name": 'Мемориал А.Н.Туполева',
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"МЕМОРИАЛ <br> А.Н.ТУПОЛЕВА",
             "description": {
 
                 "1": " 21 июля 1902 года в Кимрах состоялась закладка нового каменного храма в ознаменование выздоровления  в 1900 году Его Императорского Величества Государя  Николая II. В 1911 году трехпрестольный храм  был освящен. Главный престол освятили в честь Преображения Господня, правый предел – в честь святого пророка Илии, левый – в честь Вселенских Святителей Василия Великого, Григория Богослова, Иоанна Златоуста.Архитектор Рыбанский решил образ храма в псевдорусском стиле. Он двухсветный, с тремя апсидами, трапезной. В основании - четырехстопный четверик, завершают который пять высоких шатровых глав со световыми восьмигранными барабанами, увенчанными луковичными главками. Каждая грань барабана венчается килевидными кокошниками. ",
@@ -314,6 +328,7 @@ $(function() {
             "id": "dom_shadneckogo",
             "type": "active",
             "object_name": "Дом врача Н.А. Жардецкого",
+            "right_infoblock_header":"ДОМ ВРАЧА Н.А.  <br> ЖАРДНЕЦКОГО",
             "object_type": "tourist_facilities",
             "description": {
 
@@ -344,6 +359,7 @@ $(function() {
             "type": "active",
             "object_name": "Дом Серепьевых",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"ДОМ <br> СЕРЕПЬЕВЫХ",
             "description": {
 
                 "1": " 21 июля 1902 года в Кимрах состоялась закладка нового каменного храма в ознаменование выздоровления  в 1900 году Его Императорского Величества Государя  Николая II. В 1911 году трехпрестольный храм  был освящен. Главный престол освятили в честь Преображения Господня, правый предел – в честь святого пророка Илии, левый – в честь Вселенских Святителей Василия Великого, Григория Богослова, Иоанна Златоуста.Архитектор Рыбанский решил образ храма в псевдорусском стиле. Он двухсветный, с тремя апсидами, трапезной. В основании - четырехстопный четверик, завершают который пять высоких шатровых глав со световыми восьмигранными барабанами, увенчанными луковичными главками. Каждая грань барабана венчается килевидными кокошниками. ",
@@ -373,6 +389,7 @@ $(function() {
             "type": "active",
             "object_name": "Дом братьев Лужиных",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"ДОМ <br> БРАТЬЕВ ЛУЖЫНЫХ",
             "description": {
 
                 "1": " 21 июля 1902 года в Кимрах состоялась закладка нового каменного храма в ознаменование выздоровления  в 1900 году Его Императорского Величества Государя  Николая II. В 1911 году трехпрестольный храм  был освящен. Главный престол освятили в честь Преображения Господня, правый предел – в честь святого пророка Илии, левый – в честь Вселенских Святителей Василия Великого, Григория Богослова, Иоанна Златоуста.Архитектор Рыбанский решил образ храма в псевдорусском стиле. Он двухсветный, с тремя апсидами, трапезной. В основании - четырехстопный четверик, завершают который пять высоких шатровых глав со световыми восьмигранными барабанами, увенчанными луковичными главками. Каждая грань барабана венчается килевидными кокошниками. ",
@@ -400,8 +417,9 @@ $(function() {
         "point": {
             "id": "dom_ribgina",
             "type": "active",
-            "object_name": "Дом Е.А. Рыбкина",
+            "object_name": "ДОМ Е.А. Рыбкина",
             "object_type": "tourist_facilities",
+            "right_infoblock_header":"ДОМ <br> Е.А. РЫБКИНА",
             "description": {
 
                 "1": " 21 июля 1902 года в Кимрах состоялась закладка нового каменного храма в ознаменование выздоровления  в 1900 году Его Императорского Величества Государя  Николая II. В 1911 году трехпрестольный храм  был освящен. Главный престол освятили в честь Преображения Господня, правый предел – в честь святого пророка Илии, левый – в честь Вселенских Святителей Василия Великого, Григория Богослова, Иоанна Златоуста.Архитектор Рыбанский решил образ храма в псевдорусском стиле. Он двухсветный, с тремя апсидами, трапезной. В основании - четырехстопный четверик, завершают который пять высоких шатровых глав со световыми восьмигранными барабанами, увенчанными луковичными главками. Каждая грань барабана венчается килевидными кокошниками. ",
@@ -437,17 +455,19 @@ $(function() {
                 var Teg_El = "<div><div class='active'> <img src=" + value.point.icon_url + "> </div><div class='container2'> </div></div>";
                 list_nambers++;
                 $(".points").append("<div class='point' id=" + value.point.id + ">" + Teg_El + "</div>");
-            if(value.point.object_type == "infrastructure"){  
                 
-            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
-                
-            }
             if(value.point.object_type == "tourist_facilities"){
-            nam_l++;
-            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+                nam_l++;
+            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
                 
             
+            }    
+            if(value.point.object_type == "infrastructure"){  
+                
+            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
+                
             }
+           
                 
             });
         };
@@ -462,21 +482,20 @@ $(function() {
         $.each(Point_Mass, function(key, value) {
             if (value.point.id == $('.active_point').attr("id")) {
                 car_point = key;
-
                 $('.block_1 > h1,.block_1 > .right_b_img, .block_1 >  p,.block_2 > h1, .block_2 > .right_b_img,.block_2 >  p, .block_2 >  h3, .block_2 >  h4, .block_2 >  h5, .block_2 >  h6 ').stop().animate({
                     opacity: 0
                 }, 400, function() {
 					clear_f = function(){ // ---  под овпросом ета функция
-						$('.block_1 > h1').text("");
-						$(".block_1 > .right_b_img").attr("src", "");
-						$('.block_1 >  p').text("");
-						$('.block_2 > h1').text("");
-						$(".block_2 > .right_b_img").attr("src", "");
-						$('.block_2 >  p').text("");
-						$('.block_2 >  h3').text("");
-						$('.block_2 >  h4').text("");
-						$('.block_2 >  h5').text("");
-						$('.block_2 >  h6').text("");
+                          $('.block_1 > h1').text("");
+                          $(".block_1 > .right_b_img").attr("src", "");
+                          $('.block_1 >  p').text("");
+                          $('.block_2 > h1').text("");
+                          $(".block_2 > .right_b_img").attr("src", "");
+                          $('.block_2 >  p').text("");
+                          $('.block_2 >  h3').text("");
+                          $('.block_2 >  h4').text("");
+                          $('.block_2 >  h5').text("");
+                          $('.block_2 >  h6').text("");
 					}//--- clear right block zone
 					clear_f();
 					
@@ -486,41 +505,40 @@ $(function() {
                           $.each(value.point.description, function(key, value) {
                               val_slide = key;
                           });
-                          $('.block_1  >  h1').text(value.point.object_name);
+                          $('.block_1  >  h1').append(value.point.right_infoblock_header);
                           $(".block_1  > .right_b_img").attr("src", value.point.icon_url);
                           $('.block_1  >  p').text(value.point.description[1]);
 						  $('.control_slide_info').text("Страница" + this_slide + "из" + val_slide);
                     }else if(value.point.object_type == "infrastructure" && value.point.institution == "hotel" ){
 						  $(".block_1").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_2").css({ "display" : "block"});
-						  $('.block_2  >  h1').text(value.point.object_name);
+						  $('.block_2  >  h1').append(value.point.right_infoblock_header);
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.smal_description);
-						  $('.block_2  >  h4').append("Наш адрес: <br>" +  value.point.addres );
-						  $('.block_2  >  h5').append("Телефоны:  <br>" +  value.point.phone );
-						  $('.block_2  >  h6').append("E-mail:    <br>" +  value.point.maill );
-						
+						  $('.block_2  >  h4').append("<span>Наш адрес: </span>  <br>" +  value.point.addres );
+						  $('.block_2  >  h5').append("<span>Телефоны:  </span>  <br>" +  value.point.phone  );
+						  $('.block_2  >  h6').append("<span>E-mail:    </span>  <br>" +  value.point.maill  );
 					}else if(value.point.object_type == "infrastructure" && value.point.institution == "cafe"){
 						  $(".block_1").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_2").css({ "display" : "block"});
-						  $('.block_2  >  h1').text(value.point.object_name);
+						  $('.block_2  >  h1').append(value.point.right_infoblock_header);
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.services);
-						  $('.block_2  >  h4').append("Наш адрес: <br>" +  value.point.addres );
-						  $('.block_2  >  h5').append("Телефоны:  <br>" +  value.point.phone );
-						  $('.block_2  >  h6').append("Часы работы:    <br>" +  value.point.time_worck );
+						  $('.block_2  >  h4').append("<span> Наш адрес:   </span>     <br>" +  value.point.addres );
+						  $('.block_2  >  h5').append("<span> Телефоны:    </span>     <br>" +  value.point.phone );
+						  $('.block_2  >  h6').append("<span> Часы работы: </span>     <br>" +  value.point.time_worck );
 					}else if(value.point.object_type == "infrastructure"){
 						  $(".block_1").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_2").css({ "display" : "block"});
-						  $('.block_2  >  h1').text(value.point.object_name);
+						  $('.block_2  >  h1').append(value.point.right_infoblock_header);
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.smal_description);
-						  $('.block_2  >  h4').append("Наш адрес: <br>" +  value.point.addres );
-						  $('.block_2  >  h5').append("Телефоны:  <br>" +  value.point.phone );
-						  $('.block_2  >  h6').append("Часы работы:    <br>" +  value.point.time_worck );
+						  $('.block_2  >  h4').append("<span>Наш адрес:   </span>  <br>" +  value.point.addres );
+						  $('.block_2  >  h5').append("<span>Телефоны:    </span>  <br>" +  value.point.phone );
+						  $('.block_2  >  h6').append("<span>Часы работы: </span>  <br>" +  value.point.time_worck );
 					}
                     $('.block_1 > h1,.block_1 > .right_b_img, .block_1 >  p,.block_2 > h1, .block_2 > .right_b_img,.block_2 >  p, .block_2 >  h3, .block_2 >  h4, .block_2 >  h5, .block_2 >  h6').stop().animate({
 
@@ -532,17 +550,15 @@ $(function() {
     }
 
     //--- returne_settings_position
-
     var returne_settings_position = function() {
-
         $.each(Point_Mass, function(key, value) {
             $('.point').each(function(i, elem) {
                 if (value.point.id == $(elem).attr("id")) {
                     $(elem).css({
-                        "left": value.point.position.left
+                      //  "left": value.point.position.left
                     });
                     $(elem).css({
-                        "top": value.point.position.top
+                     //    "top": value.point.position.top
                     });
                 } else {
 
@@ -603,12 +619,13 @@ $(function() {
 
     var Corect_Height = function() {
 
-        //      h = $(".box").height();
-        //      h = h / 2.8;
-        //      h = -h;
-        //      $('.box').css({
-        //      'top': h
-        //      });
+                h = $(".box").height();
+                //h = h / 2.8;
+                h = h / 5.5;
+                h = -h;
+                $('.box').css({
+                'top': h
+                });
 
     }
 
@@ -617,7 +634,7 @@ $(function() {
 
     $('.map').click(function() {
 
-        //returne_settings_position();
+    //    returne_settings_position();
 
     });
 
@@ -633,8 +650,8 @@ $(function() {
         width_in_v = true;
         var width = $('.map').width();
         width = width * 1.1;
-        if (width > 3342) {
-            // return;
+        if (width > 6000) {
+             return;
         }
         $('.map').css({
             "width": width
@@ -687,9 +704,9 @@ $(function() {
        
         
         
+         Corect_Height();
         
-        
-        
+         returne_settings_position();
         
         //----OBjects
 
@@ -774,9 +791,9 @@ $(function() {
         //        "left": Box_Vidth
         //  }, 400);
 
-        // Corect_Height();
+         Corect_Height();
 
-
+          returne_settings_position();
     }
 
 
@@ -800,46 +817,50 @@ $(function() {
     // --- open_id_info
 
 var point_namber;
-
-    $(".point").click(function() {
-        //returne_settings_position();
+var activeted_point = function(element){
         $(".point").removeClass('active_point');
-        $(this).addClass('active_point');
+        $(element).addClass('active_point');
         $(".point").children('div').children('div').children('button').removeClass('ativeted_point');
-        $(this).children('div').children('div').children('button').addClass('ativeted_point');
+        $(element).children('div').children('div').children('button').addClass('ativeted_point');
         $(".point").children('div').children('.active').removeClass("clickd");
-        $(this).children('div').children('.active').addClass('clickd');
+        $(element).children('div').children('.active').addClass('clickd');
         change_info_r_block();
-        var this_top = $(this).css('top');
+        var this_top = $(element).css('top');
         this_top = parseInt(this_top);
-        $(this).animate({
+        $(element).animate({
             top: this_top - 100
         }, 300, function() {
             $(this).animate({
                 top: this_top
             }, 300)
         });
-
-     Point_Id = $(this).attr("id");
+     Point_Id = $(element).attr("id");
      $('.swiper-slide').removeClass('activet');
      Ul_Point = ".swiper-wrapper > #" + Point_Id;
      $(Ul_Point).addClass('activet');
      corection_position();
      Corect_Height();
-		
-		
+    
+    
+}
+    $(".point").click(function() {
+        //returne_settings_position();
+        //console.log($(this));
+
+activeted_point($(this));
+
 	 ative_point_of_list = "";
 	 ative_point_of_list = $(".activet").attr("cat_type");
 	 if(ative_point_of_list == "tourist_facilities"){
-		 $("#mid_2").css({"display" : "block"});
-		 $("#mid_1").css({"display" : "none"});
+		 $("#mid_1").css({"display" : "block"});
+		 $("#mid_2").css({"display" : "none"});
 		 $(".btn").removeClass("btn_active"); 
          $(".tourist_oject").addClass("btn_active");
          
 	 }
 	 if(ative_point_of_list == "infrastructure"){
-		 $("#mid_1").css({"display" : "block"});
-		 $("#mid_2").css({"display" : "none"});
+		 $("#mid_2").css({"display" : "block"});
+		 $("#mid_1").css({"display" : "none"});
 		 $(".btn").removeClass("btn_active"); 
          $(".infrastructure").addClass("btn_active");
 	 }
@@ -995,7 +1016,6 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
 
     //-- Left_Info_Block   
     var left_info_block = {
-
         Enable_Disable: {
             Of_ON: "true",
             click_function: click_function = function() {
@@ -1037,17 +1057,17 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
         }, //--end_swipe_funck
         point_selection: point_selection = function() {
             $('.swiper-slide').click(function() {
+                right_info_block.animation_on()
                 $('.swiper-slide').removeClass('activet');
                 $(this).addClass('activet');
                 var this_id = $(this).attr('id');
                 $('.points > div').each(function(index, domEle) {
                     if (this_id == $(domEle).attr('id')) {
-                        $(domEle).click();
+                        activeted_point($(domEle));
                     }
                 });
             });
         }, //--point_selection_end          
-
     }
     left_info_block.swipe_funck(); //--swipe_funck
     left_info_block.point_selection(); //--point_selection
@@ -1061,7 +1081,7 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
         $(this).addClass("btn_active");
         
     elem = $(this).attr("id");  
-    console.log(elem, "elem");
+    //console.log(elem, "elem");
     if(elem == "tourist_oject"){
         $(".Middle_Sector2").css({"display"   :  "none"});  
         $(".Middle_Sector").css({"display"    :  "block"});
@@ -1079,7 +1099,7 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
     var slider = function(action) {
         if (action == "nxt") {
             this_slide++;
-            console.log(this_slide)
+            //console.log(this_slide)
 			if(this_slide >= val_slide){
 				this_slide = val_slide;
 		 	}
@@ -1106,6 +1126,7 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
 
 
  //-------swiper loader
+    
     var swiper_loader = function(){
         setTimeout(function() {
             $(".Middle_Sector2").css({"display" : "none" }); 
@@ -1114,6 +1135,8 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
     swiper_loader();
     
 
+    
+    
 
 
 });

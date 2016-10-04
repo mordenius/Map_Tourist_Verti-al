@@ -261,12 +261,12 @@ margin: 15px 0 0 0;
 }
 
 .grupe_slide_contol > .slider_right_arov {
-    margin: 0 auto;
+    /* margin: 0 auto; */
     width:  40px;
     height: 40px;
     position: relative;
     top: 140px;
-    left: -155px;
+    left: -130px;
     border: 3px solid #32b2e2;
     border-radius: 20%;
     background: url(..//img/slider_arov_lefrt.png);
@@ -284,7 +284,6 @@ margin: 15px 0 0 0;
 
 
 .grupe_slide_contol > .slider_left_arov {
-    margin: 0 auto;
     width:  40px;
     height: 40px;
     position: relative;
@@ -300,8 +299,8 @@ margin: 15px 0 0 0;
 
 .grupe_slide_contol > div {
   position: relative;
-  top: 102px;
-  left: -10px;
+  top: 105px;
+  left: -25px;
 }
 
 .Middle_Sector2{
@@ -471,8 +470,8 @@ margin: 15px 0 0 0;
     font-size: 50px;
     color: #333333;
     width: 245px;
-    word-spacing: 12px;
-    letter-spacing: 2px;
+    /* word-spacing: 12px; */
+    /* letter-spacing: 2px; */
     line-height: 1.2;
     padding-left: 129px;
     width: 235px;
@@ -507,11 +506,11 @@ margin: 15px 0 0 0;
     font-size: 50px;
     color: #333333;
     width: 245px;
-    word-spacing: 12px;
+    /* word-spacing: 12px; */
     letter-spacing: 2px;
-    line-height: 1.2;
+    /* line-height: 1.2; */
     padding-left: 169px;
-    width: 235px;
+    width: 240px;
     font-size: 20px;
     float: right;
     text-align: left;
@@ -610,7 +609,7 @@ margin: 15px 0 0 0;
     padding-left: 15px;
     position: relative;
     height: 515px;
-    top: 202px;
+    top: 230px;
 }
 
 
@@ -657,6 +656,22 @@ margin: 15px 0 0 0;
     position: relative;
     height: 50px;
     top: 435px;
+    
+}
+
+.Right_Info_Block_1_Frame > .Right_Info_Block_2_Frame > .block_2 >  h4 > span {
+   font-family:'HelveticaNeueCyr-Medium';
+   text-align: left;
+}
+
+.Right_Info_Block_1_Frame > .Right_Info_Block_2_Frame > .block_2 >  h5 > span {
+   font-family:'HelveticaNeueCyr-Medium';
+   text-align: left;
+}
+
+.Right_Info_Block_1_Frame > .Right_Info_Block_2_Frame > .block_2 >  h6 > span {
+   font-family:'HelveticaNeueCyr-Medium';
+   text-align: left;
 }
 
 .Right_Info_Block_1_Frame > .Right_Info_Block_2_Frame > .block_2 >  h5 {
@@ -686,7 +701,7 @@ margin: 15px 0 0 0;
 	padding-left: 15px;
 	position: relative;
 	height: 50px;
-	top: 858px;
+	top: 860px;
 }
 
 
@@ -1063,3 +1078,4 @@ svg {
   position: relative;
   pointer-events: none;
 }
+
