@@ -16,6 +16,7 @@ $(".point").on("touchstart", function(e) {
 	
 	
 $(".Left_Info_Block_2_Frame > div").on("touchstart", function(e) {    
+    event.stopPropagation();
     choised_element = "";
     choised_element = $(this).attr("id");
     //console.log($("#" + choised_element + "> ul"), "----------------==============----------------");

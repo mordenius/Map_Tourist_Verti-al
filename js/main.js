@@ -10,15 +10,18 @@ $(function() {
             "right_infoblock_header":"ГОСТИНИЦА <br> ЧАЙКА",
             "description": " «Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " Гостиница «Чайка» расположена на берегу реки Волга.",
-            "icon_url": "img/icons/Hotel_for_map.svg",
+            "icon_url":           "img/icons/Hotel_for_map.svg",
+            "active_icon_url" :   "img/icons/Hotel_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, <br> набережная Фадеева, 1/1",
             "phone": "+7 (960) 715-71-11 <br> +7 (48236) 3-29-33 — администратор",
             "time_worck": "Пн.- Чт. – 10:00 - 22:00 Пт.- Сб. – 10:00 - 24:00 Вс. – 10:00 - 22:00",
             "services": "Домашняя кухня, проведение свадеб, юбилеев, поминальные обеды",
             "maill": "info@chaika-kimry.ru",
+            "map_pos_x":"-1376px",
+            "map_pos_y":"-1405px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1522.5px",
+                "left": "1836.5px"
             }
         }
     }, {
@@ -32,14 +35,17 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница Два капитана расположена в Яхт клубе города Кимры.",
             "icon_url": "img/icons/Hotel_for_map.svg",
+            "active_icon_url" :   "img/icons/Hotel_for_map_active.svg",
             "addres": "Тверская область, г. Кимры ул. Красная горка, 11",
             "phone": "+7 (985) 233-47-21 <br>  +7 (48236) 3-24-93 — тел/факс",
             "time_worck": "",
             "services": "",
             "maill": "dvacapitana@mail.ru",
+            "map_pos_x":"-1994px",
+            "map_pos_y":"-501px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "663.5px",
+                "left": "2438.5px"
             }
         }
     }, {
@@ -53,14 +59,17 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница «Березка» расположенана левом берегу р. Волга",
             "icon_url": "img/icons/Hotel_for_map.svg",
+            "active_icon_url" :   "img/icons/Hotel_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. 50 лет ВЛКСМ, д. 21",
             "phone": "+7 (48236) 4-24-59",
             "time_worck": "",
             "services": "",
 			"maill": "gos.berezka@ya.ru",
+            "map_pos_x":"-1740px",
+            "map_pos_y":"-1945px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "2096px",
+                "left": "2201.5px"
             }
         }
     }, {
@@ -75,14 +84,17 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Гостиница «Савма» расположенана левом берегу р. Волга",
             "icon_url": "img/icons/Hotel_for_map.svg",
+            "active_icon_url" :   "img/icons/Hotel_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Чапаева, 5",
             "phone": " +7 (48236) 4-29-42 <br> +7 (48236) 4-24-80",
             "time_worck": "",
             "services": "",
 			"maill": "",
+            "map_pos_x":"-1676px",
+            "map_pos_y":"-2746px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "2823px",
+                "left": "2130px"
             }
         }
     }, {
@@ -95,13 +107,16 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " ",
             "icon_url": "img/icons/Cafe_for_map.svg",
+            "active_icon_url" :   "img/icons/Cafe_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Урицкого, 14б",
             "phone": "+7 (48236) 2-22-12 <br> +7 (48236) 2-15-33",
             "time_worck": "Пн.- Чт. – 10:00 - 22:00 <br> Пт.- Сб. – 10:00 - 24:00",
             "services": "Европейская кухня, бизнес-ланч, доставка обедов, пиццы, банкеты, лаунж-бар",
+            "map_pos_x":"-1136px",
+            "map_pos_y":"-1397px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1476.5px",
+                "left": "1593px"
             }
         }
     }, {
@@ -115,13 +130,16 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": " ",
             "icon_url": "img/icons/Cafe_for_map.svg",
+            "active_icon_url" :   "img/icons/Cafe_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Володарского, д.9",
             "phone": "+7 (48236) 3-60-70",
             "time_worck": "Пн.- Чт. – 12:00 - 24:00 <br> Пт.- Сб. – 12:00 - 03:00",
             "services": "Домашняя кухня, проведение свадеб, юбилеев, поминальные обеды",
+            "map_pos_x":"-1333px",
+            "map_pos_y":" -1289px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1440.5px",
+                "left": "1834.5px"
             }
         }
     }, {
@@ -135,13 +153,16 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "",
             "icon_url": "img/icons/Cafe_for_map.svg",
+            "active_icon_url" :   "img/icons/Cafe_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Володарского, д.9",
             "phone": " +7 (48236) 3-60-70",
             "time_worck": "Пн.- Чт. – 12:00 - 24:00 <br> Пт.- Сб. – 12:00 - 03:00",
             "services": "Европейская кухня, проведение свадеб, юбилеев, живая музыка, бильярд, сауна, поминальные обеды",
+            "map_pos_x":"-1705px",
+            "map_pos_y":"-2035px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "2228px",
+                "left": "2156px"
             }
         }
     }, {
@@ -154,13 +175,16 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Закрытое акционерное общество 'Производственное обувное предприятие' 'Никс'",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
+            "active_icon_url" :   "img/icons/Shoe_shop_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Карла Либкнехта, д. 21",
             "phone": " + 8 (48236) 31052 <br> + 8 (48236) 22849",
             "time_worck": "ежедневно, 9:00–20:00",
             "services": "",
+            "map_pos_x":"-1169px",
+            "map_pos_y":"-1345px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1441px",
+                "left": "1652px"
             }
         }
     }, {
@@ -173,13 +197,16 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "Общество с ограниченной ответственностью «Обувная фабрика «КАПРИЗ — ТМ»",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
+            "active_icon_url" :   "img/icons/Shoe_shop_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Кирова д. 30, к. 16",
             "phone": " + 8 (48236) 3-17-58 <br> + 8 (48236) 3-26-83",
             "time_worck": "ежедневно, 9:00–20:00",
             "services": "",
+            "map_pos_x":"-1248px",
+            "map_pos_y":"-1129px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1276px",
+                "left": "1730px"
             }
         }
     }, {
@@ -192,12 +219,15 @@ $(function() {
             "description": "«Село Кимры широко раскинулось вдоль высокого, обрывистого левого берега Волги… Взоры проезжающих по Волге невольно устремляются на это красивое, богатое село. Почти по самой середине села протекает речка Кимерка, делящая Кимры на две части. Обе части села, расположенные на совершенно ровной местности, разбиты вдоль и поперек на кварталы прямыми улицами, из которых половина вымощена, а некоторые усажены деревьями.»",
             "smal_description": "",
             "icon_url": "img/icons/Shoe_shop_for_map.svg",
+             "active_icon_url" :   "img/icons/Shoe_shop_for_map_active.svg",
             "addres": "Тверская область, г. Кимры, ул. Володарского, 35а, ТЦ Олимп",
             "phone": "+ 7 (48236) 2-12-07 ",
             "time_worck": "ежедневно, 9:00–20:00",
+            "map_pos_x":"-1452px",
+            "map_pos_y":"-1091.64px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1245px",
+                "left": "1919px"
             }
         }
     }, {
@@ -222,12 +252,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/Church_for_map.svg",
+            "active_icon_url" : "img/icons/Church_for _map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1236px",
+            "map_pos_y":"-1674px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1724px",
+                "left": "1710px"
             }
         }
     }, {
@@ -253,13 +286,16 @@ $(function() {
 
             },
             "smal_description": "",
-            "icon_url": "img/icons/Church_for_map.svg",
+            "icon_url":         "img/icons/Church_for_map.svg",
+            "active_icon_url" : "img/icons/Church_for _map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-897px",
+            "map_pos_y":"-1047px",
             "position": {
-                "top": "",
-                "left": ""
+                "top": "1100px",
+                "left": "1354px"
             }
         }
     }, {
@@ -285,12 +321,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/gostiny_dvor_for_map.svg",
+            "active_icon_url" : "img/icons/gostiny_dvor_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1207px",
+            "map_pos_y":"-1368px",
             "position": {
-                "top": "",
-                "left": ""
+                "top": "1548px",
+                "left": "1644px"
             }
         }
     }, {
@@ -315,12 +354,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/Memorial_for_map.svg",
+            "active_icon_url" :   "img/icons/Memorial_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1656px",
+            "map_pos_y":"-2379px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "2500px",
+                "left": "2121px"
             }
         }
     }, {
@@ -345,12 +387,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/House_for_map.svg",
+            "active_icon_url" :   "img/icons/House_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1222px",
+            "map_pos_y":"-1500px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1595px",
+                "left": "1692px"
             }
         }
     }, {
@@ -375,12 +420,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/House_for_map.svg",
+            "active_icon_url" :   "img/icons/House_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1278px",
+            "map_pos_y":"-1307px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1462px",
+                "left": "1729px"
             }
         }
     }, {
@@ -405,12 +453,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/House_for_map.svg",
+            "active_icon_url" :   "img/icons/House_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1222px",
+            "map_pos_y":"-1231px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1377px",
+                "left": "1696px"
             }
         }
     }, {
@@ -435,12 +486,15 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/House_for_map.svg",
+            "active_icon_url" :   "img/icons/House_for_map_a_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
+            "map_pos_x":"-1498px",
+            "map_pos_y":"-1246px",
             "position": {
-                "top": "0",
-                "left": "0"
+                "top": "1380px",
+                "left": "1958px"
             }
         }
 
@@ -452,20 +506,18 @@ $(function() {
         var list_nambers = 0;
         function Point_Alignment() {
             $.each(Point_Mass, function(key, value) {
-                var Teg_El = "<div><div class='active'> <img src=" + value.point.icon_url + "> </div><div class='container2'> </div></div>";
-                list_nambers++;
-                $(".points").append("<div class='point' id=" + value.point.id + ">" + Teg_El + "</div>");
+                
+            var Teg_El = "<div><div class='active'> <img actv_icon="+value.point.active_icon_url+" standart_icon="+ value.point.icon_url +" src=" + value.point.icon_url + "> </div><div class='container2'> </div></div>";
+            list_nambers++;
+            $(".points").append("<div class='point' m_y="+value.point.map_pos_y+" m_x="+value.point.map_pos_x+" id=" + value.point.id + ">" + Teg_El + "</div>");
                 
             if(value.point.object_type == "tourist_facilities"){
                 nam_l++;
-            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
-                
-            
+            $(".Middle_Sector > .swiper-wrapper").append("<li class='swiper-slide'  cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + nam_l + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>"); 
             }    
+                
             if(value.point.object_type == "infrastructure"){  
-                
-            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide' cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
-                
+            $(".Middle_Sector2 > .swiper-wrapper").append("<li class='swiper-slide'  cat_type="+value.point.object_type+" id=" + value.point.id + "> <p class='Str_Nam'>" + list_nambers + "</p> <img src=" + value.point.icon_url + ">  <h1> " + value.point.object_name + "  </h1>   </li>");
             }
            
                 
@@ -496,9 +548,10 @@ $(function() {
                           $('.block_2 >  h4').text("");
                           $('.block_2 >  h5').text("");
                           $('.block_2 >  h6').text("");
+                        
 					}//--- clear right block zone
 					clear_f();
-					
+					$(".active_point > div > div > img").attr("src", value.point.active_icon_url);
                     if (value.point.object_type == "tourist_facilities") {
 						  $(".block_2").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_1").css({ "display" : "block"});
@@ -516,9 +569,9 @@ $(function() {
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.smal_description);
-						  $('.block_2  >  h4').append("<span>Наш адрес: </span>  <br>" +  value.point.addres );
-						  $('.block_2  >  h5').append("<span>Телефоны:  </span>  <br>" +  value.point.phone  );
-						  $('.block_2  >  h6').append("<span>E-mail:    </span>  <br>" +  value.point.maill  );
+						  $('.block_2  >  h4').append("<span>Наш адрес:  </span>  <br>" +  value.point.addres );
+						  $('.block_2  >  h5').append("<span>Телефоны:   </span>  <br>" +  value.point.phone  );
+						  $('.block_2  >  h6').append("<span>E-mail:     </span>  <br>" +  value.point.maill  );
 					}else if(value.point.object_type == "infrastructure" && value.point.institution == "cafe"){
 						  $(".block_1").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_2").css({ "display" : "block"});
@@ -526,21 +579,22 @@ $(function() {
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.services);
-						  $('.block_2  >  h4').append("<span> Наш адрес:   </span>     <br>" +  value.point.addres );
-						  $('.block_2  >  h5').append("<span> Телефоны:    </span>     <br>" +  value.point.phone );
-						  $('.block_2  >  h6').append("<span> Часы работы: </span>     <br>" +  value.point.time_worck );
+						  $('.block_2  >  h4').append("<span>Наш адрес:   </span>     <br>" +  value.point.addres );
+						  $('.block_2  >  h5').append("<span>Телефоны:    </span>     <br>" +  value.point.phone );
+						  $('.block_2  >  h6').append("<span>Часы работы: </span>     <br>" +  value.point.time_worck );
 					}else if(value.point.object_type == "infrastructure"){
 						  $(".block_1").css({ "display" : "none"});                  //--ref names mast be varieblase
 						  $(".block_2").css({ "display" : "block"});
 						  $('.block_2  >  h1').append(value.point.right_infoblock_header);
 						  $(".block_2  > .right_b_img").attr("src", value.point.icon_url);
+                        
 						  $('.block_2  >  p').text(value.point.description);
 						  $('.block_2  >  h3').text(value.point.smal_description);
 						  $('.block_2  >  h4').append("<span>Наш адрес:   </span>  <br>" +  value.point.addres );
 						  $('.block_2  >  h5').append("<span>Телефоны:    </span>  <br>" +  value.point.phone );
 						  $('.block_2  >  h6').append("<span>Часы работы: </span>  <br>" +  value.point.time_worck );
 					}
-                    $('.block_1 > h1,.block_1 > .right_b_img, .block_1 >  p,.block_2 > h1, .block_2 > .right_b_img,.block_2 >  p, .block_2 >  h3, .block_2 >  h4, .block_2 >  h5, .block_2 >  h6').stop().animate({
+                         $('.block_1 > h1,.block_1 > .right_b_img, .block_1 >  p,.block_2 > h1, .block_2 > .right_b_img,.block_2 >  p, .block_2 >  h3, .block_2 >  h4, .block_2 >  h5, .block_2 >  h6').stop().animate({
 
                         opacity: 1
                     }, 400)
@@ -550,93 +604,56 @@ $(function() {
     }
 
     //--- returne_settings_position
-    var returne_settings_position = function() {
-        $.each(Point_Mass, function(key, value) {
-            $('.point').each(function(i, elem) {
-                if (value.point.id == $(elem).attr("id")) {
-                    $(elem).css({
-                      //  "left": value.point.position.left
-                    });
-                    $(elem).css({
-                     //    "top": value.point.position.top
-                    });
-                } else {
+var returne_settings_position = function() {
+    $.each(Point_Mass, function(key, value) {
+        $('.point').each(function(i, elem) {
+            $(this).children("div").children("div").children("img").attr("src",   $(this).children("div").children("div").children("img").attr("standart_icon"));
+            if (value.point.id == $(elem).attr("id")) {
+                $(elem).css({
+                   "left": value.point.position.left
+                });
+                $(elem).css({
+                     "top": value.point.position.top
+                });
+            } else {
 
-                }
-            });
+            }
         });
-        $('.box').css({
-            "left": -1200
-        });
-
-    };
+    });
+    $('.box').css({ "left" : -1200 });
+};
 
 
 
 
     //--coretion_map_position 
-    var corection_position = function() {
-        if ($(".point").hasClass("active_point")) {
-            width_box = $('.box').width(); //-- ширина карты
-            map_pos_left = $('.box').css("left"); //-- позицыия карты
-            map_pos_left = parseInt(map_pos_left); //-- переобразование позиции в число  
-            map_pos_left = -map_pos_left; //-- переобразование в плюсовое число
-            Max_Trac_Map = width_box * 57 / 100; //-- максимально возможная траекторя движения карты              
-            Max_Trac_Map_Midle = Max_Trac_Map / 2 //-- середина карты
-            if (map_pos_left > Max_Trac_Map_Midle) {
-                m = $('.active_point').offset().left
-                var m_plas = m;
-                m = m + 100; //-- учитываем размер иконки
-                m = m - (m * 2);
-                Max_Trac_Map + 80;
-                
-                   // $('.box').animate({ "left": m - 400 }, 400);
-                if (m_plas > Max_Trac_Map) {
-
-                } else {
-                    
-                   // $('.box').animate({  "left": m  - 400 }, 400);
-                }
-            } else if (map_pos_left < Max_Trac_Map_Midle) {
-                m = $('.active_point').offset().left;
-                m = m + 100;
-                m = m / 2;
-                m = m - (m * 2);
-                if (m_plas > Max_Trac_Map) {
-                    
-                  //   $('.box').animate({ "left": -Max_Trac_Map}, 400);
-
-                } else {
-
-                    //--- $('.box').animate({ "left": m }, 400);
-
-
-                }
-            }
+var corection_position = function() {
+        if ($(".point").hasClass("active_point")) {    
+        var top  = parseInt($('.active_point').attr("m_y"));
+        var left = parseInt($('.active_point').attr("m_x"));
+        console.log(top, left)    
+        $(".box").animate({ "top": top }, "slow" );
+        $(".box").animate({ "left": left }, "slow" );
         }
-    }
+}
 
 
-    var Corect_Height = function() {
-
-                h = $(".box").height();
-                //h = h / 2.8;
-                h = h / 5.5;
-                h = -h;
-                $('.box').css({
-                'top': h
-                });
-
-    }
+var Corect_Height = function() {
+        h = $(".box").height();
+        h = h / 5.5;
+        h = -h;
+        $('.box').css({
+         'top': h
+        });
+}
 
 
 
 
-    $('.map').click(function() {
-
-    //    returne_settings_position();
-
-    });
+$('.map').click(function() {
+         returne_settings_position();
+         console.log($(this).offset().top, "map pos");    
+});
 
 
 
@@ -843,11 +860,14 @@ var activeted_point = function(element){
     
     
 }
-    $(".point").click(function() {
+
+$(".point").click(function() {
         //returne_settings_position();
         //console.log($(this));
-
-activeted_point($(this));
+     corection_position();
+     activeted_point($(this));
+     returne_settings_position();
+    
 
 	 ative_point_of_list = "";
 	 ative_point_of_list = $(".activet").attr("cat_type");
@@ -864,123 +884,116 @@ activeted_point($(this));
 		 $(".btn").removeClass("btn_active"); 
          $(".infrastructure").addClass("btn_active");
 	 }
-     //------------------------------------------------    
+    
+
 point_namber = $(".activet").children("p").text();
 point_namber = parseInt(point_namber);
     
 if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){   
-  $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + -216 + "px, 0px)");  
+    $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + -216 + "px, 0px)");  
 }else if (point_namber > 5 && ative_point_of_list == "infrastructure") {
-  $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + -360 + "px, 0px)");    
+    $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + -360 + "px, 0px)");    
 }else{
-  $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + 0 + "px, 0px)");   
-  
+    $(".Left_Info_Block_2_Frame > div > ul").css('-webkit-transform',"translate3d(0px,  " + 0 + "px, 0px)");   
 }
-       $(".scroller").css({"top" : 28 * point_namber })
-    });
+    $(".scroller").css({"top" : 28 * point_namber });
+ });
 
 
 
+//--- Zooom_Button
+$('.Zomm_In').click(function() {
+    width_in();
+});
 
 
-    //--- Zooom_Button
-    $('.Zomm_In').click(function() {
-        width_in();
-    });
+$('.Zoom_Out').click(function() {
+    width_out();
+});
+//--- Zooom_Button
 
 
-    $('.Zoom_Out').click(function() {
-        width_out();
-    });
-    //--- Zooom_Button
+var disable_point = function() {
+    $('.swiper-slide').removeClass('activet');
+    $('.point').removeClass('active_point');
+    $(".point").children('div').children('div').children('button').removeClass('ativeted_point');
+}
 
 
-    var disable_point = function() {
-        $('.swiper-slide').removeClass('activet');
-        $('.point').removeClass('active_point');
-        $(".point").children('div').children('div').children('button').removeClass('ativeted_point');
-    }
-
-
-    var map = {
-        scroll_map: scroll_funck = function() {
-            var initialPoint;
-            var finalPoint;
-            var nowPoint;
-            var drag = false;
-            $(".box").on('touchstart', function(e) {
-                initialPoint = event.changedTouches[0];
-                drag = true;
-            }).on('touchend', function() {
-                finalPoint = event.changedTouches[0];
-                $(this).data({
-                    startX: 0,
-                    startY: 0,
+var map = {
+    scroll_map: scroll_funck = function() {
+        var initialPoint;
+        var finalPoint;
+        var nowPoint;
+        var drag = false;
+        $(".box").on('touchstart', function(e) {
+            initialPoint = event.changedTouches[0];
+            drag = true;
+        }).on('touchend', function() {
+            finalPoint = event.changedTouches[0];
+            $(this).data({
+                startX: 0,
+                startY: 0,
+            });
+            drag = false;
+        }).on('touchmove', function(e) {
+            nowPoint = event.changedTouches[0];
+            e.preventDefault();
+            if (drag) {
+                var left = parseInt($(this).css('left')) || 0,
+                    top = parseInt($(this).css('top')) || 0,
+                    newLeft = left + (nowPoint.screenX - ($(this).data().startX || nowPoint.screenX)),
+                    newTop = top + (nowPoint.screenY - ($(this).data().startY || nowPoint.screenY)),
+                    parentHeight = $(this).parent().height(),
+                    parentWidth = $(this).parent().width(),
+                    imgHeight = $(this).height(),
+                    imgWidth = $(this).width();
+                $(this).css({
+                    left: newLeft < 0 && (Math.abs(newLeft - parentWidth) < imgWidth) ? newLeft : left,
+                    top: newTop < 0 && (Math.abs(newTop - parentHeight) < imgHeight) ? newTop : top
+                }).data({
+                    startX: nowPoint.screenX,
+                    startY: nowPoint.screenY,
                 });
-                drag = false;
-            }).on('touchmove', function(e) {
-                nowPoint = event.changedTouches[0];
-                //  console.log(nowPoint.screenX, nowPoint.screenY);
-                e.preventDefault();
-                if (drag) {
-                    var left = parseInt($(this).css('left')) || 0,
-                        top = parseInt($(this).css('top')) || 0,
-                        newLeft = left + (nowPoint.screenX - ($(this).data().startX || nowPoint.screenX)),
-                        newTop = top + (nowPoint.screenY - ($(this).data().startY || nowPoint.screenY)),
-                        parentHeight = $(this).parent().height(),
-                        parentWidth = $(this).parent().width(),
-                        imgHeight = $(this).height(),
-                        imgWidth = $(this).width();
-                    $(this).css({
-                        left: newLeft < 0 && (Math.abs(newLeft - parentWidth) < imgWidth) ? newLeft : left,
-                        top: newTop < 0 && (Math.abs(newTop - parentHeight) < imgHeight) ? newTop : top
-                    }).data({
-                        startX: nowPoint.screenX,
-                        startY: nowPoint.screenY,
-                    });
-                };
-            });
-        },
-        start_map_position: start_map_position_funck = function() {
-            $(".box").css({
-                "top": "-1040px"
-            });
-            $(".box").css({
-                "left": "-1055px"
-            });
-            $(".box").css({
-                "width": $(".map").width()
-            });
-        }
-    };
-    map.scroll_map();
-    map.start_map_position();
+            };
+        });
+    },
+start_map_position: start_map_position_funck = function() {
+        $(".box").css({
+            "top": "-1040px"
+        });
+        $(".box").css({
+            "left": "-1055px"
+        });
+        $(".box").css({
+            "width": $(".map").width()
+        });
+    }
+};
+map.scroll_map();
+map.start_map_position();
 
-    //-----Снятия выдиления
-    $.fn.extend({
-        disableSelection: function() {
-            this.each(function() {
-                this.onselectstart = function() {
-                    return false;
-                };
-                this.unselectable = "on";
-                $(this).css('-moz-user-select', 'none');
-            });
-        },
-        enableSelection: function() {
-            this.each(function() {
-                this.onselectstart = function() {};
-                this.unselectable = "off";
-                $(this).css('-moz-user-select', 'auto');
-            });
-        }
-    });
-    $('body *').disableSelection();
-
-
-    //--
-
-
+    
+//-----Снятия выдиления
+$.fn.extend({
+    disableSelection: function() {
+        this.each(function() {
+            this.onselectstart = function() {
+                return false;
+            };
+            this.unselectable = "on";
+            $(this).css('-moz-user-select', 'none');
+        });
+    },
+    enableSelection: function() {
+        this.each(function() {
+            this.onselectstart = function() {};
+            this.unselectable = "off";
+            $(this).css('-moz-user-select', 'auto');
+        });
+    }
+});
+$('body *').disableSelection();
 
     //--Right_Info_Block    
     var right_info_block = {
@@ -1015,104 +1028,102 @@ if(point_namber > 5 && ative_point_of_list == "tourist_facilities"){
 
 
     //-- Left_Info_Block   
-    var left_info_block = {
-        Enable_Disable: {
-            Of_ON: "true",
-            click_function: click_function = function() {
-                $('.Left_Info_Block_ON_OF').click(function() {
-                    left_info_block.Enable_Disable.Of_ON = "false"
-                    left_info_block.animation_of()
-                })
-                $('.Pointer').click(function() {
-                    left_info_block.Enable_Disable.Of_ON = "true"
-                    left_info_block.animation_on()
-                })
-            }
-        },
-        animation_on: animation = function() {
-            $('.Pointer').animate({
-                "margin-left": "-60"
-            }, 200);
-            $('.Left_Info_Block_1_Frame').animate({
-                "margin-left": "0"
-            }, 200);
-        }, //--annimation_function_end    
-        animation_of: animation = function() {
-            $('.Left_Info_Block_1_Frame').animate({
-                "margin-left": "-845"
-            }, 200);
-            $('.Pointer').animate({
-                "margin-left": "0"
-            }, 1000);
-        }, //--animation_of_end
-        swipe_funck: swipe_fucktion = function() {
-            setTimeout(function() {
-                swiper = new Swiper('.Middle_Sector, .Middle_Sector2', {
-                    pagination: '.swiper-pagination',
-                    slidesPerView: 5,
-                    paginationClickable: true,
-                    direction: 'vertical'
-                })
-            }, 200)
-        }, //--end_swipe_funck
-        point_selection: point_selection = function() {
-            $('.swiper-slide').click(function() {
-                right_info_block.animation_on()
-                $('.swiper-slide').removeClass('activet');
-                $(this).addClass('activet');
-                var this_id = $(this).attr('id');
-                $('.points > div').each(function(index, domEle) {
-                    if (this_id == $(domEle).attr('id')) {
-                        activeted_point($(domEle));
-                    }
-                });
+var left_info_block = {
+    Enable_Disable: {
+        Of_ON: "true",
+        click_function: click_function = function() {
+            $('.Left_Info_Block_ON_OF').click(function() {
+                left_info_block.Enable_Disable.Of_ON = "false"
+                left_info_block.animation_of()
+            })
+            $('.Pointer').click(function() {
+                left_info_block.Enable_Disable.Of_ON = "true"
+                left_info_block.animation_on()
+            })
+        }
+    },
+    animation_on: animation = function() {
+        $('.Pointer').animate({
+            "margin-left": "-60"
+        }, 200);
+        $('.Left_Info_Block_1_Frame').animate({
+            "margin-left": "0"
+        }, 200);
+    }, //--annimation_function_end    
+    animation_of: animation = function() {
+        $('.Left_Info_Block_1_Frame').animate({
+            "margin-left": "-845"
+        }, 200);
+        $('.Pointer').animate({
+            "margin-left": "0"
+        }, 1000);
+    }, //--animation_of_end
+    swipe_funck: swipe_fucktion = function() {
+        setTimeout(function() {
+            swiper = new Swiper('.Middle_Sector, .Middle_Sector2', {
+                pagination: '.swiper-pagination',
+                slidesPerView: 5,
+                paginationClickable: true,
+                direction: 'vertical'
+            })
+        }, 200)
+    }, //--end_swipe_funck
+    point_selection: point_selection = function() {
+        $('.swiper-slide').click(function() {
+            right_info_block.animation_on()
+            returne_settings_position();
+            $('.swiper-slide').removeClass('activet');
+            $(this).addClass('activet');
+            var this_id = $(this).attr('id');
+            $('.points > div').each(function(index, domEle) {
+                if (this_id == $(domEle).attr('id')) {
+                    activeted_point($(domEle));
+                }
             });
-        }, //--point_selection_end          
-    }
-    left_info_block.swipe_funck(); //--swipe_funck
-    left_info_block.point_selection(); //--point_selection
-    left_info_block.Enable_Disable.click_function();
+        });
+    }, //--point_selection_end          
+}
+left_info_block.swipe_funck();      //--swipe_funck
+left_info_block.point_selection();  //--point_selection
+left_info_block.Enable_Disable.click_function();
 
 	
     //--------------------------------------------------------------------------------
 	
-    $(".btn").click(function() {
-        $(".btn").removeClass("btn_active");
-        $(this).addClass("btn_active");
-        
+$(".btn").click(function() {
+    $(".btn").removeClass("btn_active");
+    $(this).addClass("btn_active");   
     elem = $(this).attr("id");  
-    //console.log(elem, "elem");
-    if(elem == "tourist_oject"){
-        $(".Middle_Sector2").css({"display"   :  "none"});  
-        $(".Middle_Sector").css({"display"    :  "block"});
-      
-    }
-    if(elem == "infrastructure") {
-        $(".Middle_Sector").css({"display"    :  "none"});
-        $(".Middle_Sector2").css({"display"   :  "block"});   
-    }   
-    });
+if(elem == "tourist_oject"){
+    $(".Middle_Sector2").css({"display"   :   "none"});  
+    $(".Middle_Sector").css({"display"    :   "block"});
+}
+if(elem == "infrastructure") {
+    $(".Middle_Sector").css({"display"    :   "none"});
+    $(".Middle_Sector2").css({"display"   :   "block"});   
+}   
+});
 	
     //-------------------------------------------------------------------------------- 
 	
-    var this_slide = 1;
-    var slider = function(action) {
-        if (action == "nxt") {
-            this_slide++;
-            //console.log(this_slide)
-			if(this_slide >= val_slide){
-				this_slide = val_slide;
-		 	}
-            }else if (action == "prev"){
-            this_slide--;
-            if(this_slide <= 1){
-				this_slide = 1;
-			}
+var this_slide = 1;
+var slider = function(action) {
+    if (action == "nxt") {
+        this_slide++;
+        //console.log(this_slide)
+        if(this_slide >= val_slide){
+            this_slide = val_slide;
         }
-        $('.block_1 >  p').text(Point_Mass[car_point].point.description[this_slide]);
-		$('.control_slide_info').text("");
-	    $('.control_slide_info').text("Страница " + this_slide + "из " + val_slide);
+        }else if (action == "prev"){
+        this_slide--;
+        if(this_slide <= 1){
+            this_slide = 1;
+        }
     }
+    $('.block_1 >  p').text(Point_Mass[car_point].point.description[this_slide]);
+    $('.control_slide_info').text("");
+    $('.control_slide_info').text("Страница " + this_slide + "из " + val_slide);
+}
 
 
 
