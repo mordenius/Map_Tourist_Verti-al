@@ -65,7 +65,7 @@ $(function() {
             "time_worck": "",
             "services": "",
 			"maill": "gos.berezka@ya.ru",
-            "map_pos_x":"-1740px",
+            "map_pos_x":"-1500px",
             "map_pos_y":"-1945px",
             "position": {
                 "top": "2096px",
@@ -90,7 +90,7 @@ $(function() {
             "time_worck": "",
             "services": "",
 			"maill": "",
-            "map_pos_x":"-1676px",
+            "map_pos_x":"-1500px",
             "map_pos_y":"-2746px",
             "position": {
                 "top": "2823px",
@@ -158,7 +158,7 @@ $(function() {
             "phone": " +7 (48236) 3-60-70",
             "time_worck": "Пн.- Чт. – 12:00 - 24:00 <br> Пт.- Сб. – 12:00 - 03:00",
             "services": "Европейская кухня, проведение свадеб, юбилеев, живая музыка, бильярд, сауна, поминальные обеды",
-            "map_pos_x":"-1705px",
+            "map_pos_x":"-1500px",
             "map_pos_y":"-2035px",
             "position": {
                 "top": "2228px",
@@ -356,7 +356,7 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1656px",
+            "map_pos_x":"-1500px",
             "map_pos_y":"-2379px",
             "position": {
                 "top": "2500px",
@@ -452,7 +452,7 @@ $(function() {
             },
             "smal_description": "",
             "icon_url": "img/icons/House_for_map.svg",
-            "active_icon_url" :   "img/icons/House_for_map_a_active.svg",
+            "active_icon_url" :   "img/icons/House_for_map_active.svg",
             "addres": "",
             "phone": "",
             "maill": "",
