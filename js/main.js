@@ -570,6 +570,7 @@ $(function() {
 
     //--- returne_settings_position
 var returne_settings_position = function() {
+    $(".box, .map").width(3135);
     $.each(Point_Mass, function(key, value) {
         $('.point').each(function(i, elem) {
             $(this).children("div").children("div").children("img").attr("src",   $(this).children("div").children("div").children("img").attr("standart_icon"));
@@ -686,9 +687,9 @@ $('.map').click(function() {
        
         
         
-         //Corect_Height();
+         Corect_Height();
         
-       ///  returne_settings_position();
+        // returne_settings_position();
         
         //----OBjects
 
@@ -773,9 +774,9 @@ $('.map').click(function() {
         //        "left": Box_Vidth
         //  }, 400);
 
-       //  Corect_Height();
+        Corect_Height();
 
-       //   returne_settings_position();
+       // returne_settings_position();
     }
 
 
