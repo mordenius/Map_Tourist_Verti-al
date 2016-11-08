@@ -18,8 +18,8 @@ $(function() {
             "time_worck": "Пн.- Чт. – 10:00 - 22:00 Пт.- Сб. – 10:00 - 24:00 Вс. – 10:00 - 22:00",
             "services": "Домашняя кухня, проведение свадеб, юбилеев, поминальные обеды",
             "maill": "info@chaika-kimry.ru",
-            "map_pos_x":"-1376px",
-            "map_pos_y":"-1405px",
+            "map_pos_x":"-1388px",
+            "map_pos_y":"-1121px",
             "position": {
                 "top": "1522.5px",
                 "left": "1836.5px"
@@ -42,8 +42,8 @@ $(function() {
             "time_worck": "",
             "services": "",
             "maill": "dvacapitana@mail.ru",
-            "map_pos_x":"-1994px",
-            "map_pos_y":"-501px",
+            "map_pos_x":"-1964px",
+            "map_pos_y":"-217px",
             "position": {
                 "top": "663.5px",
                 "left": "2438.5px"
@@ -66,8 +66,8 @@ $(function() {
             "time_worck": "",
             "services": "",
             "maill": "gos.berezka@ya.ru",
-            "map_pos_x":"-1500px",
-            "map_pos_y":"-1945px",
+            "map_pos_x":"-1690px",
+            "map_pos_y":"-1725px",
             "position": {
                 "top": "2096px",
                 "left": "2201.5px"
@@ -91,8 +91,8 @@ $(function() {
             "time_worck": "",
             "services": "",
             "maill": "",
-            "map_pos_x":"-1500px",
-            "map_pos_y":"-2746px",
+            "map_pos_x":"-1642px",
+            "map_pos_y":"-2436px",
             "position": {
                 "top": "2823px",
                 "left": "2130px"
@@ -113,8 +113,8 @@ $(function() {
             "phone": "+7 (48236) 2-22-12 <br> +7 (48236) 2-15-33",
             "time_worck": "Пн.- Чт. – 10:00 - 22:00 <br> Пт.- Сб. – 10:00 - 24:00",
             "services": "Европейская кухня, бизнес-ланч, доставка обедов, пиццы, банкеты, лаунж-бар",
-            "map_pos_x":"-1136px",
-            "map_pos_y":"-1397px",
+            "map_pos_x":"-1136p",
+            "map_pos_y":"-1128px",
             "position": {
                 "top": "1476.5px",
                 "left": "1593px"
@@ -136,8 +136,8 @@ $(function() {
             "phone": "+7 (48236) 3-60-70",
             "time_worck": "Пн.- Чт. – 12:00 - 24:00 <br> Пт.- Сб. – 12:00 - 03:00",
             "services": "Домашняя кухня, проведение свадеб, юбилеев, поминальные обеды",
-            "map_pos_x":"-1333px",
-            "map_pos_y":" -1289px",
+            "map_pos_x":"-1340px",
+            "map_pos_y":"-1048px",
             "position": {
                 "top": "1440.5px",
                 "left": "1834.5px"
@@ -159,8 +159,8 @@ $(function() {
             "phone": " +7 (48236) 3-60-70",
             "time_worck": "Пн.- Чт. – 12:00 - 24:00 <br> Пт.- Сб. – 12:00 - 03:00",
             "services": "Европейская кухня, проведение свадеб, юбилеев, живая музыка, бильярд, сауна, поминальные обеды",
-            "map_pos_x":"-1500px",
-            "map_pos_y":"-2035px",
+            "map_pos_x":"-1682px",
+            "map_pos_y":"-1800px",
             "position": {
                 "top": "2228px",
                 "left": "2156px"
@@ -181,8 +181,8 @@ $(function() {
             "phone": " + 8 (48236) 31052 <br> + 8 (48236) 22849",
             "time_worck": "ежедневно, 9:00–20:00",
             "services": "",
-            "map_pos_x":"-1169px",
-            "map_pos_y":"-1345px",
+            "map_pos_x":"-1161px",
+            "map_pos_y":"-1051px",
             "position": {
                 "top": "1441px",
                 "left": "1652px"
@@ -203,8 +203,8 @@ $(function() {
             "phone": " + 8 (48236) 3-17-58 <br> + 8 (48236) 3-26-83",
             "time_worck": "ежедневно, 9:00–20:00",
             "services": "",
-            "map_pos_x":"-1248px",
-            "map_pos_y":"-1129px",
+            "map_pos_x":"-1269px",
+            "map_pos_y":"-836px",
             "position": {
                 "top": "1276px",
                 "left": "1730px"
@@ -224,8 +224,8 @@ $(function() {
             "addres": "Тверская область, г. Кимры, ул. Володарского, 35а, ТЦ Олимп",
             "phone": "+ 7 (48236) 2-12-07 ",
             "time_worck": "ежедневно, 9:00–20:00",
-            "map_pos_x":"-1452px",
-            "map_pos_y":"-1091.64px",
+            "map_pos_x":"-1422px",
+            "map_pos_y":"-831px",
             "position": {
                 "top": "1245px",
                 "left": "1919px"
@@ -254,8 +254,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1236px",
-            "map_pos_y":"-1674px",
+            "map_pos_x":"-1255px",
+            "map_pos_y":"-1312px",
             "position": {
                 "top": "1724px",
                 "left": "1710px"
@@ -289,8 +289,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-897px",
-            "map_pos_y":"-1047px",
+            "map_pos_x":"-887px",
+            "map_pos_y":"-686px",
             "position": {
                 "top": "1100px",
                 "left": "1354px"
@@ -323,8 +323,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1207px",
-            "map_pos_y":"-1368px",
+            "map_pos_x":"-1225px",
+            "map_pos_y":"-1112px",
             "position": {
                 "top": "1548px",
                 "left": "1644px"
@@ -355,8 +355,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1500px",
-            "map_pos_y":"-2379px",
+            "map_pos_x":"-1718px",
+            "map_pos_y":"-2078px",
             "position": {
                 "top": "2500px",
                 "left": "2121px"
@@ -380,8 +380,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1222px",
-            "map_pos_y":"-1500px",
+            "map_pos_x":"-1243px",
+            "map_pos_y":"-1199px",
             "position": {
                 "top": "1595px",
                 "left": "1692px"
@@ -405,8 +405,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1278px",
-            "map_pos_y":"-1307px",
+            "map_pos_x":"-1284px",
+            "map_pos_y":"-1091px",
             "position": {
                 "top": "1462px",
                 "left": "1729px"
@@ -430,8 +430,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1222px",
-            "map_pos_y":"-1231px",
+            "map_pos_x":"-1230px",
+            "map_pos_y":"-945px",
             "position": {
                 "top": "1377px",
                 "left": "1696px"
@@ -455,8 +455,8 @@ $(function() {
             "addres": "",
             "phone": "",
             "maill": "",
-            "map_pos_x":"-1498px",
-            "map_pos_y":"-1246px",
+            "map_pos_x":"-1551px",
+            "map_pos_y":"-869px",
             "position": {
                 "top": "1380px",
                 "left": "1958px"
